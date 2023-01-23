@@ -3,6 +3,10 @@
     font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
 }
 
+.odd-class.third-element {
+    font-size: 24px;
+}
+
 #first-id {
     color: rgb(0, 0, 255);
     font-size: 36px;
